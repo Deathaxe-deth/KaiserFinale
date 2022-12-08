@@ -6,4 +6,4 @@ The Main challenge is the limitations that I have to deal with. Like trying to g
 
 So overall. I'd say it's good for some quick fun. It contains like I said, a sequencer which you can make melodies. The button which is interactable with both mouse click on the button or the keyboard plays a variety of interesting drumlike sounds that can help make a beat. There is a play and stop button. and of course, the wizard. If I were to add/change anything. I would maybe try to add some effects to make things more dynamic and interesting
 
-The Project Link is here: https://bczrnq-5000.preview.csb.app/
+The Project Link is here: (https://deathaxe-deth.github.io/csb-91xicc/)
